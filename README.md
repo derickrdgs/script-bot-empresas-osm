@@ -71,7 +71,7 @@ pip install -r requirements.txt
 Antes de executar, abra `bot_empresas_osm.py` e altere a constante `USER_AGENT`, substituindo `seu-email@exemplo.com` por um endereço de contato válido:
 
 ```python
-USER_AGENT = "BotEmpresasOSM/1.0 (uso pessoal; contato: seu-email@exemplo.com)"
+USER_AGENT = "BotEmpresasOSM/1.0 (uso pessoal; contato: derickrdgs@gmail.com)"
 ```
 
 O contato identificável é importante para o uso responsável dos serviços de geocodificação e consulta. Não execute várias instâncias simultaneamente nem faça requisições em volume que sobrecarregue os serviços públicos.
