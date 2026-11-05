@@ -36,7 +36,7 @@ import requests
 # CONFIGURAÇÕES
 # ============================================================================
 # IMPORTANTE: troque o contato abaixo. Nominatim/Overpass exigem User-Agent identificável.
-USER_AGENT = "BotEmpresasOSM/1.0 (uso pessoal; contato: seu-email@exemplo.com)"
+USER_AGENT = "BotEmpresasOSM/1.0 (uso pessoal; contato: derickrdgs@gmail.com)"
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
